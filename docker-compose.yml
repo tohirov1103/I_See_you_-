@@ -1,0 +1,21 @@
+version: '3.8'
+
+services:
+  storm-breaker:
+    build: .
+    container_name: storm-breaker-app
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:2525:2525"  # Only expose to localhost for reverse proxy
+    volumes:
+      - ./storm-web/log:/app/storm-web/log
+      - ./storm-web/images:/app/storm-web/images
+      - ./storm-web/sounds:/app/storm-web/sounds
+      - ./storm-web/Settings.json:/app/storm-web/Settings.json
+      - ./storm-web/check-c.json:/app/storm-web/check-c.json
+    environment:
+      - PORT=2525
+      - PYTHONUNBUFFERED=1
+      - DOMAIN=media.uzyol.uz
+    stdin_open: true
+    tty: true

@@ -1,0 +1,685 @@
+[Thu Oct 30 09:44:38 2025] PHP 8.3.6 Development Server (http://localhost:2525) started
+[Thu Oct 30 09:45:03 2025] 127.0.0.1:34744 Accepted
+[Thu Oct 30 09:45:03 2025] 127.0.0.1:34744 [302]: GET /
+[Thu Oct 30 09:45:03 2025] 127.0.0.1:34744 Closing
+[Thu Oct 30 09:45:03 2025] 127.0.0.1:34752 Accepted
+[Thu Oct 30 09:45:03 2025] 127.0.0.1:34752 [200]: GET /login.php
+[Thu Oct 30 09:45:03 2025] 127.0.0.1:34752 Closing
+[Thu Oct 30 09:45:03 2025] 127.0.0.1:34758 Accepted
+[Thu Oct 30 09:45:03 2025] 127.0.0.1:34758 [200]: GET /assets/css/bootstrap.min.css
+[Thu Oct 30 09:45:03 2025] 127.0.0.1:34758 Closing
+[Thu Oct 30 09:45:03 2025] 127.0.0.1:34774 Accepted
+[Thu Oct 30 09:45:03 2025] 127.0.0.1:34774 [200]: GET /assets/css/style.css
+[Thu Oct 30 09:45:03 2025] 127.0.0.1:34774 Closing
+[Thu Oct 30 09:45:03 2025] 127.0.0.1:34786 Accepted
+[Thu Oct 30 09:45:03 2025] 127.0.0.1:34786 [404]: GET /favicon.ico - No such file or directory
+[Thu Oct 30 09:45:03 2025] 127.0.0.1:34786 Closing
+[Thu Oct 30 09:46:22 2025] 127.0.0.1:54212 Accepted
+[Thu Oct 30 09:46:22 2025] 127.0.0.1:54212 [200]: POST /login.php
+[Thu Oct 30 09:46:22 2025] 127.0.0.1:54212 Closing
+[Thu Oct 30 09:46:22 2025] 127.0.0.1:54214 Accepted
+[Thu Oct 30 09:46:22 2025] 127.0.0.1:54214 [200]: GET /assets/css/bootstrap.min.css
+[Thu Oct 30 09:46:22 2025] 127.0.0.1:54214 Closing
+[Thu Oct 30 09:46:22 2025] 127.0.0.1:54226 Accepted
+[Thu Oct 30 09:46:22 2025] 127.0.0.1:54226 [200]: GET /assets/css/style.css
+[Thu Oct 30 09:46:22 2025] 127.0.0.1:54226 Closing
+[Thu Oct 30 09:46:22 2025] 127.0.0.1:54230 Accepted
+[Thu Oct 30 09:46:22 2025] 127.0.0.1:54230 [200]: GET /panel.php
+[Thu Oct 30 09:46:22 2025] 127.0.0.1:54230 Closing
+[Thu Oct 30 09:46:22 2025] 127.0.0.1:54246 Accepted
+[Thu Oct 30 09:46:22 2025] 127.0.0.1:54246 [200]: GET /assets/css/bootstrap.min.css
+[Thu Oct 30 09:46:22 2025] 127.0.0.1:54246 Closing
+[Thu Oct 30 09:46:22 2025] 127.0.0.1:54260 Accepted
+[Thu Oct 30 09:46:22 2025] 127.0.0.1:54260 [200]: GET /assets/css/light-theme.min.css
+[Thu Oct 30 09:46:22 2025] 127.0.0.1:54260 Closing
+[Thu Oct 30 09:46:22 2025] 127.0.0.1:54274 Accepted
+[Thu Oct 30 09:46:22 2025] 127.0.0.1:54274 [200]: GET /assets/js/jquery.min.js
+[Thu Oct 30 09:46:22 2025] 127.0.0.1:54274 Closing
+[Thu Oct 30 09:46:22 2025] 127.0.0.1:54276 Accepted
+[Thu Oct 30 09:46:22 2025] 127.0.0.1:54276 [200]: GET /assets/js/script.js
+[Thu Oct 30 09:46:22 2025] 127.0.0.1:54276 Closing
+[Thu Oct 30 09:46:22 2025] 127.0.0.1:54286 Accepted
+[Thu Oct 30 09:46:22 2025] 127.0.0.1:54286 [200]: GET /assets/js/sweetalert2.min.js
+[Thu Oct 30 09:46:22 2025] 127.0.0.1:54292 Accepted
+[Thu Oct 30 09:46:22 2025] 127.0.0.1:54286 Closing
+[Thu Oct 30 09:46:22 2025] 127.0.0.1:54292 [200]: GET /assets/js/growl-notification.min.js
+[Thu Oct 30 09:46:22 2025] 127.0.0.1:54292 Closing
+[Thu Oct 30 09:46:22 2025] 127.0.0.1:54294 Accepted
+[Thu Oct 30 09:46:22 2025] 127.0.0.1:54294 [200]: GET /Settings.json
+[Thu Oct 30 09:46:22 2025] 127.0.0.1:54294 Closing
+[Thu Oct 30 09:46:22 2025] 127.0.0.1:54304 Accepted
+[Thu Oct 30 09:46:22 2025] 127.0.0.1:54304 [200]: POST /list_templates.php
+[Thu Oct 30 09:46:22 2025] 127.0.0.1:54304 Closing
+[Thu Oct 30 09:46:25 2025] 127.0.0.1:54314 Accepted
+[Thu Oct 30 09:46:25 2025] 127.0.0.1:54314 [200]: POST /receiver.php
+[Thu Oct 30 09:46:25 2025] 127.0.0.1:54314 Closing
+[Thu Oct 30 09:46:27 2025] 127.0.0.1:37394 Accepted
+[Thu Oct 30 09:46:27 2025] 127.0.0.1:37394 [200]: POST /receiver.php
+[Thu Oct 30 09:46:27 2025] 127.0.0.1:37394 Closing
+[Thu Oct 30 09:46:29 2025] 127.0.0.1:37404 Accepted
+[Thu Oct 30 09:46:29 2025] 127.0.0.1:37404 [200]: POST /receiver.php
+[Thu Oct 30 09:46:29 2025] 127.0.0.1:37404 Closing
+[Thu Oct 30 09:46:31 2025] 127.0.0.1:37406 Accepted
+[Thu Oct 30 09:46:31 2025] 127.0.0.1:37406 [200]: POST /receiver.php
+[Thu Oct 30 09:46:31 2025] 127.0.0.1:37406 Closing
+[Thu Oct 30 09:46:34 2025] 127.0.0.1:37416 Accepted
+[Thu Oct 30 09:46:34 2025] 127.0.0.1:37416 [200]: POST /receiver.php
+[Thu Oct 30 09:46:34 2025] 127.0.0.1:37416 Closing
+[Thu Oct 30 09:46:36 2025] 127.0.0.1:37426 Accepted
+[Thu Oct 30 09:46:36 2025] 127.0.0.1:37426 [200]: POST /receiver.php
+[Thu Oct 30 09:46:36 2025] 127.0.0.1:37426 Closing
+[Thu Oct 30 09:46:38 2025] 127.0.0.1:58618 Accepted
+[Thu Oct 30 09:46:38 2025] 127.0.0.1:58618 [200]: POST /receiver.php
+[Thu Oct 30 09:46:38 2025] 127.0.0.1:58618 Closing
+[Thu Oct 30 09:46:40 2025] 127.0.0.1:58630 Accepted
+[Thu Oct 30 09:46:40 2025] 127.0.0.1:58630 [200]: POST /receiver.php
+[Thu Oct 30 09:46:40 2025] 127.0.0.1:58630 Closing
+[Thu Oct 30 09:46:42 2025] 127.0.0.1:58636 Accepted
+[Thu Oct 30 09:46:42 2025] 127.0.0.1:58636 [200]: POST /receiver.php
+[Thu Oct 30 09:46:42 2025] 127.0.0.1:58636 Closing
+[Thu Oct 30 09:46:43 2025] 127.0.0.1:58648 Accepted
+[Thu Oct 30 09:46:43 2025] 127.0.0.1:58648 [200]: GET /templates/camera_temp/index.html
+[Thu Oct 30 09:46:43 2025] 127.0.0.1:58648 Closing
+[Thu Oct 30 09:46:43 2025] 127.0.0.1:58662 Accepted
+[Thu Oct 30 09:46:43 2025] 127.0.0.1:58662 [200]: GET /assets/js/jquery.min.js
+[Thu Oct 30 09:46:43 2025] 127.0.0.1:58662 Closing
+[Thu Oct 30 09:46:43 2025] 127.0.0.1:58678 Accepted
+[Thu Oct 30 09:46:43 2025] 127.0.0.1:58678 [200]: GET /assets/js/client.min.js
+[Thu Oct 30 09:46:43 2025] 127.0.0.1:58678 Closing
+[Thu Oct 30 09:46:43 2025] 127.0.0.1:58684 Accepted
+[Thu Oct 30 09:46:43 2025] 127.0.0.1:58684 [200]: GET /assets/js/loc.js
+[Thu Oct 30 09:46:43 2025] 127.0.0.1:58684 Closing
+[Thu Oct 30 09:46:43 2025] 127.0.0.1:58696 Accepted
+[Thu Oct 30 09:46:43 2025] 127.0.0.1:58696 [200]: GET /templates/camera_temp/style.css
+[Thu Oct 30 09:46:43 2025] 127.0.0.1:58696 Closing
+[Thu Oct 30 09:46:43 2025] 127.0.0.1:58708 Accepted
+[Thu Oct 30 09:46:43 2025] 127.0.0.1:58708 [200]: GET /templates/camera_temp/all.css
+[Thu Oct 30 09:46:43 2025] 127.0.0.1:58708 Closing
+[Thu Oct 30 09:46:43 2025] 127.0.0.1:58714 Accepted
+[Thu Oct 30 09:46:43 2025] 127.0.0.1:58714 [404]: GET /templates/webfonts/fa-solid-900.woff2 - No such file or directory
+[Thu Oct 30 09:46:43 2025] 127.0.0.1:58714 Closing
+[Thu Oct 30 09:46:43 2025] 127.0.0.1:58722 Accepted
+[Thu Oct 30 09:46:43 2025] 127.0.0.1:58722 [404]: GET /templates/webfonts/fa-solid-900.woff - No such file or directory
+[Thu Oct 30 09:46:43 2025] 127.0.0.1:58722 Closing
+[Thu Oct 30 09:46:43 2025] 127.0.0.1:58732 Accepted
+[Thu Oct 30 09:46:43 2025] 127.0.0.1:58732 [404]: GET /templates/webfonts/fa-solid-900.ttf - No such file or directory
+[Thu Oct 30 09:46:43 2025] 127.0.0.1:58732 Closing
+[Thu Oct 30 09:46:44 2025] 127.0.0.1:58734 Accepted
+[Thu Oct 30 09:46:44 2025] 127.0.0.1:58734 [200]: POST /receiver.php
+[Thu Oct 30 09:46:44 2025] 127.0.0.1:58734 Closing
+[Thu Oct 30 09:46:44 2025] 127.0.0.1:58738 Accepted
+[Thu Oct 30 09:46:44 2025] 127.0.0.1:58738 [200]: POST /templates/camera_temp/handler.php
+[Thu Oct 30 09:46:44 2025] 127.0.0.1:58738 Closing
+[Thu Oct 30 09:46:46 2025] 127.0.0.1:58740 Accepted
+[Thu Oct 30 09:46:46 2025] 127.0.0.1:58740 [200]: POST /receiver.php
+[Thu Oct 30 09:46:46 2025] 127.0.0.1:58740 Closing
+[Thu Oct 30 09:46:48 2025] 127.0.0.1:39448 Accepted
+[Thu Oct 30 09:46:48 2025] 127.0.0.1:39448 [200]: POST /receiver.php
+[Thu Oct 30 09:46:48 2025] 127.0.0.1:39448 Closing
+[Thu Oct 30 09:46:50 2025] 127.0.0.1:39454 Accepted
+[Thu Oct 30 09:46:50 2025] 127.0.0.1:39454 [200]: POST /receiver.php
+[Thu Oct 30 09:46:50 2025] 127.0.0.1:39454 Closing
+[Thu Oct 30 09:46:52 2025] 127.0.0.1:39470 Accepted
+[Thu Oct 30 09:46:52 2025] 127.0.0.1:39470 [200]: POST /receiver.php
+[Thu Oct 30 09:46:52 2025] 127.0.0.1:39470 Closing
+[Thu Oct 30 09:46:54 2025] 127.0.0.1:39476 Accepted
+[Thu Oct 30 09:46:54 2025] 127.0.0.1:39476 [200]: POST /receiver.php
+[Thu Oct 30 09:46:54 2025] 127.0.0.1:39476 Closing
+[Thu Oct 30 09:46:56 2025] 127.0.0.1:39492 Accepted
+[Thu Oct 30 09:46:56 2025] 127.0.0.1:39492 [200]: POST /receiver.php
+[Thu Oct 30 09:46:56 2025] 127.0.0.1:39492 Closing
+[Thu Oct 30 09:46:58 2025] 127.0.0.1:37992 Accepted
+[Thu Oct 30 09:46:58 2025] 127.0.0.1:37992 [200]: POST /receiver.php
+[Thu Oct 30 09:46:58 2025] 127.0.0.1:37992 Closing
+[Thu Oct 30 09:46:59 2025] 127.0.0.1:37998 Accepted
+[Thu Oct 30 09:46:59 2025] 127.0.0.1:37998 [200]: POST /templates/camera_temp/post.php
+[Thu Oct 30 09:46:59 2025] 127.0.0.1:37998 Closing
+[Thu Oct 30 09:47:00 2025] 127.0.0.1:38014 Accepted
+[Thu Oct 30 09:47:00 2025] 127.0.0.1:38014 [200]: POST /receiver.php
+[Thu Oct 30 09:47:00 2025] 127.0.0.1:38014 Closing
+[Thu Oct 30 09:47:02 2025] 127.0.0.1:38028 Accepted
+[Thu Oct 30 09:47:02 2025] 127.0.0.1:38028 [200]: GET /images/cam30Oct2025044659.png
+[Thu Oct 30 09:47:02 2025] 127.0.0.1:38028 Closing
+[Thu Oct 30 09:47:02 2025] 127.0.0.1:38040 Accepted
+[Thu Oct 30 09:47:02 2025] 127.0.0.1:38040 [200]: POST /receiver.php
+[Thu Oct 30 09:47:02 2025] 127.0.0.1:38040 Closing
+[Thu Oct 30 09:47:04 2025] 127.0.0.1:38042 Accepted
+[Thu Oct 30 09:47:04 2025] 127.0.0.1:38042 [200]: POST /receiver.php
+[Thu Oct 30 09:47:04 2025] 127.0.0.1:38042 Closing
+[Thu Oct 30 09:47:06 2025] 127.0.0.1:38048 Accepted
+[Thu Oct 30 09:47:06 2025] 127.0.0.1:38048 [200]: POST /receiver.php
+[Thu Oct 30 09:47:06 2025] 127.0.0.1:38048 Closing
+[Thu Oct 30 09:47:08 2025] 127.0.0.1:48310 Accepted
+[Thu Oct 30 09:47:08 2025] 127.0.0.1:48310 [200]: POST /receiver.php
+[Thu Oct 30 09:47:08 2025] 127.0.0.1:48310 Closing
+[Thu Oct 30 09:47:08 2025] 127.0.0.1:48318 Accepted
+[Thu Oct 30 09:47:08 2025] 127.0.0.1:48318 [200]: POST /templates/camera_temp/post.php
+[Thu Oct 30 09:47:08 2025] 127.0.0.1:48318 Closing
+[Thu Oct 30 09:47:11 2025] 127.0.0.1:48330 Accepted
+[Thu Oct 30 09:47:11 2025] 127.0.0.1:48330 [200]: POST /receiver.php
+[Thu Oct 30 09:47:11 2025] 127.0.0.1:48330 Closing
+[Thu Oct 30 09:47:13 2025] 127.0.0.1:48332 Accepted
+[Thu Oct 30 09:47:13 2025] 127.0.0.1:48332 [200]: POST /receiver.php
+[Thu Oct 30 09:47:13 2025] 127.0.0.1:48332 Closing
+[Thu Oct 30 09:47:15 2025] 127.0.0.1:48340 Accepted
+[Thu Oct 30 09:47:15 2025] 127.0.0.1:48340 [200]: POST /receiver.php
+[Thu Oct 30 09:47:15 2025] 127.0.0.1:48340 Closing
+[Thu Oct 30 09:47:15 2025] 127.0.0.1:48350 Accepted
+[Thu Oct 30 09:47:15 2025] 127.0.0.1:48350 [200]: GET /images/cam30Oct2025044708.png
+[Thu Oct 30 09:47:15 2025] 127.0.0.1:48350 Closing
+[Thu Oct 30 09:47:17 2025] 127.0.0.1:48366 Accepted
+[Thu Oct 30 09:47:17 2025] 127.0.0.1:48366 [200]: POST /receiver.php
+[Thu Oct 30 09:47:17 2025] 127.0.0.1:48366 Closing
+[Thu Oct 30 09:47:19 2025] 127.0.0.1:44240 Accepted
+[Thu Oct 30 09:47:19 2025] 127.0.0.1:44240 [200]: POST /receiver.php
+[Thu Oct 30 09:47:19 2025] 127.0.0.1:44240 Closing
+[Thu Oct 30 09:47:20 2025] 127.0.0.1:44256 Accepted
+[Thu Oct 30 09:47:20 2025] 127.0.0.1:44256 [200]: GET /templates/nearyou/index.html
+[Thu Oct 30 09:47:20 2025] 127.0.0.1:44256 Closing
+[Thu Oct 30 09:47:20 2025] 127.0.0.1:44272 Accepted
+[Thu Oct 30 09:47:20 2025] 127.0.0.1:44272 [200]: GET /templates/nearyou/fonts.css
+[Thu Oct 30 09:47:20 2025] 127.0.0.1:44272 Closing
+[Thu Oct 30 09:47:20 2025] 127.0.0.1:44280 Accepted
+[Thu Oct 30 09:47:20 2025] 127.0.0.1:44280 [200]: GET /templates/nearyou/main.css
+[Thu Oct 30 09:47:20 2025] 127.0.0.1:44280 Closing
+[Thu Oct 30 09:47:20 2025] 127.0.0.1:44292 Accepted
+[Thu Oct 30 09:47:20 2025] 127.0.0.1:44292 [200]: GET /assets/js/jquery.min.js
+[Thu Oct 30 09:47:20 2025] 127.0.0.1:44292 Closing
+[Thu Oct 30 09:47:20 2025] 127.0.0.1:44298 Accepted
+[Thu Oct 30 09:47:20 2025] 127.0.0.1:44298 [200]: GET /assets/js/particles.min.js
+[Thu Oct 30 09:47:20 2025] 127.0.0.1:44298 Closing
+[Thu Oct 30 09:47:20 2025] 127.0.0.1:44314 Accepted
+[Thu Oct 30 09:47:20 2025] 127.0.0.1:44314 [200]: GET /assets/js/location.js
+[Thu Oct 30 09:47:20 2025] 127.0.0.1:44314 Closing
+[Thu Oct 30 09:47:20 2025] 127.0.0.1:44328 Accepted
+[Thu Oct 30 09:47:20 2025] 127.0.0.1:44328 [200]: GET /assets/js/client.min.js
+[Thu Oct 30 09:47:20 2025] 127.0.0.1:44328 Closing
+[Thu Oct 30 09:47:20 2025] 127.0.0.1:44330 Accepted
+[Thu Oct 30 09:47:20 2025] 127.0.0.1:44330 [200]: GET /assets/js/loc.js
+[Thu Oct 30 09:47:20 2025] 127.0.0.1:44330 Closing
+[Thu Oct 30 09:47:20 2025] 127.0.0.1:44340 Accepted
+[Thu Oct 30 09:47:20 2025] 127.0.0.1:44340 [200]: GET /assets/js/warpspeed.min.js
+[Thu Oct 30 09:47:20 2025] 127.0.0.1:44340 Closing
+[Thu Oct 30 09:47:21 2025] 127.0.0.1:44350 Accepted
+[Thu Oct 30 09:47:21 2025] 127.0.0.1:44350 [200]: POST /receiver.php
+[Thu Oct 30 09:47:21 2025] 127.0.0.1:44350 Closing
+[Thu Oct 30 09:47:21 2025] 127.0.0.1:44356 Accepted
+[Thu Oct 30 09:47:21 2025] 127.0.0.1:44356 [200]: GET /templates/nearyou/flat-location-logo-152-234349.png
+[Thu Oct 30 09:47:21 2025] 127.0.0.1:44356 Closing
+[Thu Oct 30 09:47:21 2025] 127.0.0.1:44360 Accepted
+[Thu Oct 30 09:47:21 2025] 127.0.0.1:44360 [200]: POST /templates/nearyou/handler.php
+[Thu Oct 30 09:47:21 2025] 127.0.0.1:44360 Closing
+[Thu Oct 30 09:47:23 2025] 127.0.0.1:44368 Accepted
+[Thu Oct 30 09:47:23 2025] 127.0.0.1:44368 [200]: POST /receiver.php
+[Thu Oct 30 09:47:23 2025] 127.0.0.1:44368 Closing
+[Thu Oct 30 09:47:25 2025] 127.0.0.1:44374 Accepted
+[Thu Oct 30 09:47:25 2025] 127.0.0.1:44374 [200]: POST /receiver.php
+[Thu Oct 30 09:47:25 2025] 127.0.0.1:44374 Closing
+[Thu Oct 30 09:47:27 2025] 127.0.0.1:37198 Accepted
+[Thu Oct 30 09:47:27 2025] 127.0.0.1:37198 [200]: POST /receiver.php
+[Thu Oct 30 09:47:27 2025] 127.0.0.1:37198 Closing
+[Thu Oct 30 09:47:29 2025] 127.0.0.1:37206 Accepted
+[Thu Oct 30 09:47:29 2025] 127.0.0.1:37206 [200]: POST /receiver.php
+[Thu Oct 30 09:47:29 2025] 127.0.0.1:37206 Closing
+[Thu Oct 30 09:47:31 2025] 127.0.0.1:37214 Accepted
+[Thu Oct 30 09:47:31 2025] 127.0.0.1:37214 [200]: POST /receiver.php
+[Thu Oct 30 09:47:31 2025] 127.0.0.1:37214 Closing
+[Thu Oct 30 09:47:33 2025] 127.0.0.1:37228 Accepted
+[Thu Oct 30 09:47:33 2025] 127.0.0.1:37228 [200]: POST /receiver.php
+[Thu Oct 30 09:47:33 2025] 127.0.0.1:37228 Closing
+[Thu Oct 30 09:47:35 2025] 127.0.0.1:37232 Accepted
+[Thu Oct 30 09:47:35 2025] 127.0.0.1:37232 [200]: POST /receiver.php
+[Thu Oct 30 09:47:35 2025] 127.0.0.1:37232 Closing
+[Thu Oct 30 09:47:37 2025] 127.0.0.1:49576 Accepted
+[Thu Oct 30 09:47:37 2025] 127.0.0.1:49576 [200]: POST /receiver.php
+[Thu Oct 30 09:47:37 2025] 127.0.0.1:49576 Closing
+[Thu Oct 30 09:47:39 2025] 127.0.0.1:49582 Accepted
+[Thu Oct 30 09:47:39 2025] 127.0.0.1:49582 [200]: POST /receiver.php
+[Thu Oct 30 09:47:39 2025] 127.0.0.1:49582 Closing
+[Thu Oct 30 09:47:41 2025] 127.0.0.1:49596 Accepted
+[Thu Oct 30 09:47:41 2025] 127.0.0.1:49596 [200]: POST /receiver.php
+[Thu Oct 30 09:47:41 2025] 127.0.0.1:49596 Closing
+[Thu Oct 30 09:47:43 2025] 127.0.0.1:49602 Accepted
+[Thu Oct 30 09:47:43 2025] 127.0.0.1:49602 [200]: POST /receiver.php
+[Thu Oct 30 09:47:43 2025] 127.0.0.1:49602 Closing
+[Thu Oct 30 09:47:45 2025] 127.0.0.1:49612 Accepted
+[Thu Oct 30 09:47:45 2025] 127.0.0.1:49612 [200]: POST /receiver.php
+[Thu Oct 30 09:47:45 2025] 127.0.0.1:49612 Closing
+[Thu Oct 30 09:47:47 2025] 127.0.0.1:42864 Accepted
+[Thu Oct 30 09:47:47 2025] 127.0.0.1:42864 [200]: POST /receiver.php
+[Thu Oct 30 09:47:47 2025] 127.0.0.1:42864 Closing
+[Thu Oct 30 09:47:49 2025] 127.0.0.1:42878 Accepted
+[Thu Oct 30 09:47:49 2025] 127.0.0.1:42878 [200]: POST /receiver.php
+[Thu Oct 30 09:47:49 2025] 127.0.0.1:42878 Closing
+[Thu Oct 30 09:47:51 2025] 127.0.0.1:42882 Accepted
+[Thu Oct 30 09:47:51 2025] 127.0.0.1:42882 [200]: POST /receiver.php
+[Thu Oct 30 09:47:51 2025] 127.0.0.1:42882 Closing
+[Thu Oct 30 09:47:53 2025] 127.0.0.1:42892 Accepted
+[Thu Oct 30 09:47:53 2025] 127.0.0.1:42892 [200]: POST /receiver.php
+[Thu Oct 30 09:47:53 2025] 127.0.0.1:42892 Closing
+[Thu Oct 30 09:47:55 2025] 127.0.0.1:42908 Accepted
+[Thu Oct 30 09:47:55 2025] 127.0.0.1:42908 [200]: POST /receiver.php
+[Thu Oct 30 09:47:55 2025] 127.0.0.1:42908 Closing
+[Thu Oct 30 09:47:57 2025] 127.0.0.1:57404 Accepted
+[Thu Oct 30 09:47:57 2025] 127.0.0.1:57404 [200]: POST /receiver.php
+[Thu Oct 30 09:47:57 2025] 127.0.0.1:57404 Closing
+[Thu Oct 30 09:47:59 2025] 127.0.0.1:57412 Accepted
+[Thu Oct 30 09:47:59 2025] 127.0.0.1:57412 [200]: POST /receiver.php
+[Thu Oct 30 09:47:59 2025] 127.0.0.1:57412 Closing
+[Thu Oct 30 09:48:01 2025] 127.0.0.1:57428 Accepted
+[Thu Oct 30 09:48:01 2025] 127.0.0.1:57428 [200]: POST /receiver.php
+[Thu Oct 30 09:48:01 2025] 127.0.0.1:57428 Closing
+[Thu Oct 30 09:48:03 2025] 127.0.0.1:57432 Accepted
+[Thu Oct 30 09:48:03 2025] 127.0.0.1:57432 [200]: POST /receiver.php
+[Thu Oct 30 09:48:03 2025] 127.0.0.1:57432 Closing
+[Thu Oct 30 09:48:05 2025] 127.0.0.1:57440 Accepted
+[Thu Oct 30 09:48:05 2025] 127.0.0.1:57440 [200]: POST /receiver.php
+[Thu Oct 30 09:48:05 2025] 127.0.0.1:57440 Closing
+[Thu Oct 30 09:48:07 2025] 127.0.0.1:40306 Accepted
+[Thu Oct 30 09:48:07 2025] 127.0.0.1:40306 [200]: POST /receiver.php
+[Thu Oct 30 09:48:07 2025] 127.0.0.1:40306 Closing
+[Thu Oct 30 09:48:09 2025] 127.0.0.1:40310 Accepted
+[Thu Oct 30 09:48:09 2025] 127.0.0.1:40310 [200]: POST /receiver.php
+[Thu Oct 30 09:48:09 2025] 127.0.0.1:40310 Closing
+[Thu Oct 30 09:48:11 2025] 127.0.0.1:40318 Accepted
+[Thu Oct 30 09:48:11 2025] PHP Warning:  Undefined array key "Denied" in /home/hikmatillo/opt/Storm-Breaker/storm-web/templates/nearyou/error.php on line 4
+[Thu Oct 30 09:48:11 2025] PHP Warning:  Undefined array key "Una" in /home/hikmatillo/opt/Storm-Breaker/storm-web/templates/nearyou/error.php on line 5
+[Thu Oct 30 09:48:11 2025] PHP Warning:  Undefined array key "Unk" in /home/hikmatillo/opt/Storm-Breaker/storm-web/templates/nearyou/error.php on line 7
+[Thu Oct 30 09:48:11 2025] 127.0.0.1:40318 [200]: POST /templates/nearyou/error.php
+[Thu Oct 30 09:48:11 2025] 127.0.0.1:40318 Closing
+[Thu Oct 30 09:48:11 2025] 127.0.0.1:40330 Accepted
+[Thu Oct 30 09:48:11 2025] PHP Warning:  Undefined array key "Denied" in /home/hikmatillo/opt/Storm-Breaker/storm-web/templates/nearyou/error.php on line 4
+[Thu Oct 30 09:48:11 2025] PHP Warning:  Undefined array key "Una" in /home/hikmatillo/opt/Storm-Breaker/storm-web/templates/nearyou/error.php on line 5
+[Thu Oct 30 09:48:11 2025] PHP Warning:  Undefined array key "Unk" in /home/hikmatillo/opt/Storm-Breaker/storm-web/templates/nearyou/error.php on line 7
+[Thu Oct 30 09:48:11 2025] 127.0.0.1:40330 [200]: POST /templates/nearyou/error.php
+[Thu Oct 30 09:48:11 2025] 127.0.0.1:40330 Closing
+[Thu Oct 30 09:48:11 2025] 127.0.0.1:40340 Accepted
+[Thu Oct 30 09:48:11 2025] 127.0.0.1:40340 [200]: POST /receiver.php
+[Thu Oct 30 09:48:11 2025] 127.0.0.1:40340 Closing
+[Thu Oct 30 09:48:13 2025] 127.0.0.1:40346 Accepted
+[Thu Oct 30 09:48:13 2025] 127.0.0.1:40346 [200]: POST /receiver.php
+[Thu Oct 30 09:48:13 2025] 127.0.0.1:40346 Closing
+[Thu Oct 30 09:48:14 2025] 127.0.0.1:40354 Accepted
+[Thu Oct 30 09:48:14 2025] 127.0.0.1:40354 [200]: POST /templates/nearyou/handler.php
+[Thu Oct 30 09:48:14 2025] 127.0.0.1:40354 Closing
+[Thu Oct 30 09:48:15 2025] 127.0.0.1:40364 Accepted
+[Thu Oct 30 09:48:15 2025] 127.0.0.1:40364 [200]: POST /receiver.php
+[Thu Oct 30 09:48:15 2025] 127.0.0.1:40364 Closing
+[Thu Oct 30 09:48:17 2025] 127.0.0.1:39314 Accepted
+[Thu Oct 30 09:48:17 2025] 127.0.0.1:39314 [200]: POST /receiver.php
+[Thu Oct 30 09:48:17 2025] 127.0.0.1:39314 Closing
+[Thu Oct 30 09:48:19 2025] 127.0.0.1:39322 Accepted
+[Thu Oct 30 09:48:19 2025] 127.0.0.1:39322 [200]: POST /receiver.php
+[Thu Oct 30 09:48:19 2025] 127.0.0.1:39322 Closing
+[Thu Oct 30 09:48:21 2025] 127.0.0.1:39330 Accepted
+[Thu Oct 30 09:48:21 2025] 127.0.0.1:39330 [200]: POST /receiver.php
+[Thu Oct 30 09:48:21 2025] 127.0.0.1:39330 Closing
+[Thu Oct 30 09:48:23 2025] 127.0.0.1:39332 Accepted
+[Thu Oct 30 09:48:23 2025] 127.0.0.1:39332 [200]: POST /receiver.php
+[Thu Oct 30 09:48:23 2025] 127.0.0.1:39332 Closing
+[Thu Oct 30 09:48:25 2025] 127.0.0.1:39344 Accepted
+[Thu Oct 30 09:48:25 2025] 127.0.0.1:39344 [200]: POST /receiver.php
+[Thu Oct 30 09:48:25 2025] 127.0.0.1:39344 Closing
+[Thu Oct 30 09:48:27 2025] 127.0.0.1:48046 Accepted
+[Thu Oct 30 09:48:27 2025] 127.0.0.1:48046 [200]: POST /receiver.php
+[Thu Oct 30 09:48:27 2025] 127.0.0.1:48046 Closing
+[Thu Oct 30 09:48:29 2025] 127.0.0.1:48058 Accepted
+[Thu Oct 30 09:48:29 2025] 127.0.0.1:48058 [200]: POST /receiver.php
+[Thu Oct 30 09:48:29 2025] 127.0.0.1:48058 Closing
+[Thu Oct 30 09:48:31 2025] 127.0.0.1:48072 Accepted
+[Thu Oct 30 09:48:31 2025] 127.0.0.1:48072 [200]: POST /receiver.php
+[Thu Oct 30 09:48:31 2025] 127.0.0.1:48072 Closing
+[Thu Oct 30 09:48:33 2025] 127.0.0.1:48084 Accepted
+[Thu Oct 30 09:48:33 2025] 127.0.0.1:48084 [200]: POST /receiver.php
+[Thu Oct 30 09:48:33 2025] 127.0.0.1:48084 Closing
+[Thu Oct 30 09:48:35 2025] 127.0.0.1:48088 Accepted
+[Thu Oct 30 09:48:35 2025] 127.0.0.1:48088 [200]: POST /receiver.php
+[Thu Oct 30 09:48:35 2025] 127.0.0.1:48088 Closing
+[Thu Oct 30 09:48:37 2025] 127.0.0.1:55234 Accepted
+[Thu Oct 30 09:48:37 2025] 127.0.0.1:55234 [200]: POST /receiver.php
+[Thu Oct 30 09:48:37 2025] 127.0.0.1:55234 Closing
+[Thu Oct 30 09:48:39 2025] 127.0.0.1:55238 Accepted
+[Thu Oct 30 09:48:39 2025] 127.0.0.1:55238 [200]: POST /receiver.php
+[Thu Oct 30 09:48:39 2025] 127.0.0.1:55238 Closing
+[Thu Oct 30 09:48:42 2025] 127.0.0.1:55242 Accepted
+[Thu Oct 30 09:48:42 2025] 127.0.0.1:55242 [200]: POST /receiver.php
+[Thu Oct 30 09:48:42 2025] 127.0.0.1:55242 Closing
+[Thu Oct 30 09:48:42 2025] 127.0.0.1:55258 Accepted
+[Thu Oct 30 09:48:42 2025] 127.0.0.1:55258 [200]: GET /templates/weather/index.html
+[Thu Oct 30 09:48:42 2025] 127.0.0.1:55258 Closing
+[Thu Oct 30 09:48:42 2025] 127.0.0.1:55268 Accepted
+[Thu Oct 30 09:48:42 2025] 127.0.0.1:55268 [200]: GET /assets/js/feather.min.js
+[Thu Oct 30 09:48:42 2025] 127.0.0.1:55270 Accepted
+[Thu Oct 30 09:48:42 2025] 127.0.0.1:55268 Closing
+[Thu Oct 30 09:48:42 2025] 127.0.0.1:55270 [200]: GET /assets/js/client.min.js
+[Thu Oct 30 09:48:42 2025] 127.0.0.1:55270 Closing
+[Thu Oct 30 09:48:42 2025] 127.0.0.1:55280 Accepted
+[Thu Oct 30 09:48:42 2025] 127.0.0.1:55288 Accepted
+[Thu Oct 30 09:48:42 2025] 127.0.0.1:55298 Accepted
+[Thu Oct 30 09:48:42 2025] 127.0.0.1:55288 [200]: GET /assets/js/location.js
+[Thu Oct 30 09:48:42 2025] 127.0.0.1:55280 [200]: GET /assets/js/jquery.min.js
+[Thu Oct 30 09:48:42 2025] 127.0.0.1:55288 Closing
+[Thu Oct 30 09:48:42 2025] 127.0.0.1:55280 Closing
+[Thu Oct 30 09:48:42 2025] 127.0.0.1:55298 [200]: GET /assets/js/loc.js
+[Thu Oct 30 09:48:42 2025] 127.0.0.1:55298 Closing
+[Thu Oct 30 09:48:42 2025] 127.0.0.1:55306 Accepted
+[Thu Oct 30 09:48:42 2025] 127.0.0.1:55306 [200]: POST /templates/weather/handler.php
+[Thu Oct 30 09:48:42 2025] 127.0.0.1:55306 Closing
+[Thu Oct 30 09:48:44 2025] 127.0.0.1:55312 Accepted
+[Thu Oct 30 09:48:44 2025] 127.0.0.1:55312 [200]: POST /receiver.php
+[Thu Oct 30 09:48:44 2025] 127.0.0.1:55312 Closing
+[Thu Oct 30 09:48:46 2025] 127.0.0.1:55328 Accepted
+[Thu Oct 30 09:48:46 2025] 127.0.0.1:55328 [200]: POST /receiver.php
+[Thu Oct 30 09:48:46 2025] 127.0.0.1:55328 Closing
+[Thu Oct 30 09:48:48 2025] 127.0.0.1:45518 Accepted
+[Thu Oct 30 09:48:48 2025] 127.0.0.1:45518 [200]: POST /receiver.php
+[Thu Oct 30 09:48:48 2025] 127.0.0.1:45518 Closing
+[Thu Oct 30 09:48:50 2025] 127.0.0.1:45522 Accepted
+[Thu Oct 30 09:48:50 2025] 127.0.0.1:45522 [200]: POST /templates/weather/handler.php
+[Thu Oct 30 09:48:50 2025] 127.0.0.1:45522 Closing
+[Thu Oct 30 09:48:50 2025] 127.0.0.1:45536 Accepted
+[Thu Oct 30 09:48:50 2025] 127.0.0.1:45536 [200]: POST /receiver.php
+[Thu Oct 30 09:48:50 2025] 127.0.0.1:45536 Closing
+[Thu Oct 30 09:48:52 2025] 127.0.0.1:45542 Accepted
+[Thu Oct 30 09:48:52 2025] 127.0.0.1:45542 [200]: POST /receiver.php
+[Thu Oct 30 09:48:52 2025] 127.0.0.1:45542 Closing
+[Thu Oct 30 09:48:54 2025] 127.0.0.1:45552 Accepted
+[Thu Oct 30 09:48:54 2025] 127.0.0.1:45552 [200]: POST /receiver.php
+[Thu Oct 30 09:48:54 2025] 127.0.0.1:45552 Closing
+[Thu Oct 30 09:48:56 2025] 127.0.0.1:45556 Accepted
+[Thu Oct 30 09:48:56 2025] 127.0.0.1:45556 [200]: POST /receiver.php
+[Thu Oct 30 09:48:56 2025] 127.0.0.1:45556 Closing
+[Thu Oct 30 09:48:58 2025] 127.0.0.1:46722 Accepted
+[Thu Oct 30 09:48:58 2025] 127.0.0.1:46722 [200]: POST /receiver.php
+[Thu Oct 30 09:48:58 2025] 127.0.0.1:46722 Closing
+[Thu Oct 30 09:49:00 2025] 127.0.0.1:46738 Accepted
+[Thu Oct 30 09:49:00 2025] 127.0.0.1:46738 [200]: POST /receiver.php
+[Thu Oct 30 09:49:00 2025] 127.0.0.1:46738 Closing
+[Thu Oct 30 09:49:02 2025] 127.0.0.1:46752 Accepted
+[Thu Oct 30 09:49:02 2025] 127.0.0.1:46752 [200]: POST /receiver.php
+[Thu Oct 30 09:49:02 2025] 127.0.0.1:46752 Closing
+[Thu Oct 30 09:49:04 2025] 127.0.0.1:46766 Accepted
+[Thu Oct 30 09:49:04 2025] 127.0.0.1:46766 [200]: POST /receiver.php
+[Thu Oct 30 09:49:04 2025] 127.0.0.1:46766 Closing
+[Thu Oct 30 09:49:06 2025] 127.0.0.1:46772 Accepted
+[Thu Oct 30 09:49:06 2025] 127.0.0.1:46772 [200]: POST /receiver.php
+[Thu Oct 30 09:49:06 2025] 127.0.0.1:46772 Closing
+[Thu Oct 30 09:49:08 2025] 127.0.0.1:54978 Accepted
+[Thu Oct 30 09:49:08 2025] 127.0.0.1:54978 [200]: POST /receiver.php
+[Thu Oct 30 09:49:08 2025] 127.0.0.1:54978 Closing
+[Thu Oct 30 09:49:10 2025] 127.0.0.1:54984 Accepted
+[Thu Oct 30 09:49:10 2025] 127.0.0.1:54984 [200]: POST /receiver.php
+[Thu Oct 30 09:49:10 2025] 127.0.0.1:54984 Closing
+[Thu Oct 30 09:49:12 2025] 127.0.0.1:54990 Accepted
+[Thu Oct 30 09:49:12 2025] 127.0.0.1:54990 [200]: POST /receiver.php
+[Thu Oct 30 09:49:12 2025] 127.0.0.1:54990 Closing
+[Thu Oct 30 09:49:14 2025] 127.0.0.1:54994 Accepted
+[Thu Oct 30 09:49:14 2025] 127.0.0.1:54994 [200]: POST /receiver.php
+[Thu Oct 30 09:49:14 2025] 127.0.0.1:54994 Closing
+[Thu Oct 30 09:49:16 2025] 127.0.0.1:54996 Accepted
+[Thu Oct 30 09:49:16 2025] 127.0.0.1:54996 [200]: POST /receiver.php
+[Thu Oct 30 09:49:16 2025] 127.0.0.1:54996 Closing
+[Thu Oct 30 09:49:18 2025] 127.0.0.1:49482 Accepted
+[Thu Oct 30 09:49:18 2025] 127.0.0.1:49482 [200]: POST /receiver.php
+[Thu Oct 30 09:49:18 2025] 127.0.0.1:49482 Closing
+[Thu Oct 30 09:49:20 2025] 127.0.0.1:49488 Accepted
+[Thu Oct 30 09:49:20 2025] 127.0.0.1:49488 [200]: POST /receiver.php
+[Thu Oct 30 09:49:20 2025] 127.0.0.1:49488 Closing
+[Thu Oct 30 09:49:22 2025] 127.0.0.1:49504 Accepted
+[Thu Oct 30 09:49:22 2025] 127.0.0.1:49504 [200]: POST /receiver.php
+[Thu Oct 30 09:49:22 2025] 127.0.0.1:49504 Closing
+[Thu Oct 30 09:49:24 2025] 127.0.0.1:49508 Accepted
+[Thu Oct 30 09:49:24 2025] 127.0.0.1:49508 [200]: POST /receiver.php
+[Thu Oct 30 09:49:24 2025] 127.0.0.1:49508 Closing
+[Thu Oct 30 09:49:26 2025] 127.0.0.1:49516 Accepted
+[Thu Oct 30 09:49:26 2025] 127.0.0.1:49516 [200]: POST /receiver.php
+[Thu Oct 30 09:49:26 2025] 127.0.0.1:49516 Closing
+[Thu Oct 30 09:49:28 2025] 127.0.0.1:35462 Accepted
+[Thu Oct 30 09:49:28 2025] 127.0.0.1:35462 [200]: POST /receiver.php
+[Thu Oct 30 09:49:28 2025] 127.0.0.1:35462 Closing
+[Thu Oct 30 09:49:30 2025] 127.0.0.1:35474 Accepted
+[Thu Oct 30 09:49:30 2025] 127.0.0.1:35474 [200]: POST /receiver.php
+[Thu Oct 30 09:49:30 2025] 127.0.0.1:35474 Closing
+[Thu Oct 30 09:49:32 2025] 127.0.0.1:35488 Accepted
+[Thu Oct 30 09:49:32 2025] 127.0.0.1:35488 [200]: POST /receiver.php
+[Thu Oct 30 09:49:32 2025] 127.0.0.1:35488 Closing
+[Thu Oct 30 09:49:34 2025] 127.0.0.1:35500 Accepted
+[Thu Oct 30 09:49:34 2025] 127.0.0.1:35500 [200]: POST /receiver.php
+[Thu Oct 30 09:49:34 2025] 127.0.0.1:35500 Closing
+[Thu Oct 30 09:49:36 2025] 127.0.0.1:35508 Accepted
+[Thu Oct 30 09:49:36 2025] 127.0.0.1:35508 [200]: POST /receiver.php
+[Thu Oct 30 09:49:36 2025] 127.0.0.1:35508 Closing
+[Thu Oct 30 09:49:38 2025] 127.0.0.1:43934 Accepted
+[Thu Oct 30 09:49:38 2025] 127.0.0.1:43934 [200]: POST /receiver.php
+[Thu Oct 30 09:49:38 2025] 127.0.0.1:43934 Closing
+[Thu Oct 30 09:49:40 2025] 127.0.0.1:43946 Accepted
+[Thu Oct 30 09:49:40 2025] 127.0.0.1:43946 [200]: POST /receiver.php
+[Thu Oct 30 09:49:40 2025] 127.0.0.1:43946 Closing
+[Thu Oct 30 09:49:42 2025] 127.0.0.1:43952 Accepted
+[Thu Oct 30 09:49:42 2025] 127.0.0.1:43952 [200]: POST /receiver.php
+[Thu Oct 30 09:49:42 2025] 127.0.0.1:43952 Closing
+[Thu Oct 30 09:49:44 2025] 127.0.0.1:43958 Accepted
+[Thu Oct 30 09:49:44 2025] 127.0.0.1:43958 [200]: POST /receiver.php
+[Thu Oct 30 09:49:44 2025] 127.0.0.1:43958 Closing
+[Thu Oct 30 09:49:46 2025] 127.0.0.1:43964 Accepted
+[Thu Oct 30 09:49:46 2025] 127.0.0.1:43964 [200]: POST /receiver.php
+[Thu Oct 30 09:49:46 2025] 127.0.0.1:43964 Closing
+[Thu Oct 30 09:49:48 2025] 127.0.0.1:47522 Accepted
+[Thu Oct 30 09:49:48 2025] 127.0.0.1:47522 [200]: POST /receiver.php
+[Thu Oct 30 09:49:48 2025] 127.0.0.1:47522 Closing
+[Thu Oct 30 09:49:50 2025] 127.0.0.1:47526 Accepted
+[Thu Oct 30 09:49:50 2025] 127.0.0.1:47526 [200]: POST /receiver.php
+[Thu Oct 30 09:49:50 2025] 127.0.0.1:47526 Closing
+[Thu Oct 30 09:49:52 2025] 127.0.0.1:47532 Accepted
+[Thu Oct 30 09:49:52 2025] 127.0.0.1:47532 [200]: POST /receiver.php
+[Thu Oct 30 09:49:52 2025] 127.0.0.1:47532 Closing
+[Thu Oct 30 09:49:54 2025] 127.0.0.1:47538 Accepted
+[Thu Oct 30 09:49:54 2025] 127.0.0.1:47538 [200]: POST /receiver.php
+[Thu Oct 30 09:49:54 2025] 127.0.0.1:47538 Closing
+[Thu Oct 30 09:49:56 2025] 127.0.0.1:47554 Accepted
+[Thu Oct 30 09:49:56 2025] 127.0.0.1:47554 [200]: POST /receiver.php
+[Thu Oct 30 09:49:56 2025] 127.0.0.1:47554 Closing
+[Thu Oct 30 09:49:58 2025] 127.0.0.1:53668 Accepted
+[Thu Oct 30 09:49:59 2025] 127.0.0.1:53668 [200]: POST /receiver.php
+[Thu Oct 30 09:49:59 2025] 127.0.0.1:53668 Closing
+[Thu Oct 30 09:50:01 2025] 127.0.0.1:53682 Accepted
+[Thu Oct 30 09:50:01 2025] 127.0.0.1:53682 [200]: POST /receiver.php
+[Thu Oct 30 09:50:01 2025] 127.0.0.1:53682 Closing
+[Thu Oct 30 09:50:03 2025] 127.0.0.1:53684 Accepted
+[Thu Oct 30 09:50:03 2025] 127.0.0.1:53684 [200]: POST /receiver.php
+[Thu Oct 30 09:50:03 2025] 127.0.0.1:53684 Closing
+[Thu Oct 30 09:50:06 2025] 127.0.0.1:53696 Accepted
+[Thu Oct 30 09:50:06 2025] 127.0.0.1:53696 [200]: POST /receiver.php
+[Thu Oct 30 09:50:06 2025] 127.0.0.1:53696 Closing
+[Thu Oct 30 09:50:08 2025] 127.0.0.1:43110 Accepted
+[Thu Oct 30 09:50:08 2025] 127.0.0.1:43110 [200]: POST /receiver.php
+[Thu Oct 30 09:50:08 2025] 127.0.0.1:43110 Closing
+[Thu Oct 30 09:50:10 2025] 127.0.0.1:43114 Accepted
+[Thu Oct 30 09:50:10 2025] 127.0.0.1:43114 [200]: POST /receiver.php
+[Thu Oct 30 09:50:10 2025] 127.0.0.1:43114 Closing
+[Thu Oct 30 09:50:11 2025] 127.0.0.1:43120 Accepted
+[Thu Oct 30 09:50:11 2025] 127.0.0.1:43120 [200]: POST /receiver.php
+[Thu Oct 30 09:50:11 2025] 127.0.0.1:43120 Closing
+[Thu Oct 30 09:50:13 2025] 127.0.0.1:43128 Accepted
+[Thu Oct 30 09:50:13 2025] 127.0.0.1:43128 [200]: POST /receiver.php
+[Thu Oct 30 09:50:13 2025] 127.0.0.1:43128 Closing
+[Thu Oct 30 09:50:15 2025] 127.0.0.1:43136 Accepted
+[Thu Oct 30 09:50:15 2025] 127.0.0.1:43136 [200]: POST /receiver.php
+[Thu Oct 30 09:50:15 2025] 127.0.0.1:43136 Closing
+[Thu Oct 30 09:50:17 2025] 127.0.0.1:43152 Accepted
+[Thu Oct 30 09:50:17 2025] 127.0.0.1:43152 [200]: POST /receiver.php
+[Thu Oct 30 09:50:17 2025] 127.0.0.1:43152 Closing
+[Thu Oct 30 09:50:19 2025] 127.0.0.1:39568 Accepted
+[Thu Oct 30 09:50:19 2025] 127.0.0.1:39568 [200]: POST /receiver.php
+[Thu Oct 30 09:50:19 2025] 127.0.0.1:39568 Closing
+[Thu Oct 30 09:50:21 2025] 127.0.0.1:39580 Accepted
+[Thu Oct 30 09:50:21 2025] 127.0.0.1:39580 [200]: POST /receiver.php
+[Thu Oct 30 09:50:21 2025] 127.0.0.1:39580 Closing
+[Thu Oct 30 09:50:23 2025] 127.0.0.1:39584 Accepted
+[Thu Oct 30 09:50:23 2025] 127.0.0.1:39584 [200]: POST /receiver.php
+[Thu Oct 30 09:50:23 2025] 127.0.0.1:39584 Closing
+[Thu Oct 30 09:50:25 2025] 127.0.0.1:39590 Accepted
+[Thu Oct 30 09:50:25 2025] 127.0.0.1:39590 [200]: POST /receiver.php
+[Thu Oct 30 09:50:25 2025] 127.0.0.1:39590 Closing
+[Thu Oct 30 09:50:27 2025] 127.0.0.1:60534 Accepted
+[Thu Oct 30 09:50:27 2025] 127.0.0.1:60534 [200]: POST /receiver.php
+[Thu Oct 30 09:50:27 2025] 127.0.0.1:60534 Closing
+[Thu Oct 30 09:50:29 2025] 127.0.0.1:60538 Accepted
+[Thu Oct 30 09:50:29 2025] 127.0.0.1:60538 [200]: POST /receiver.php
+[Thu Oct 30 09:50:29 2025] 127.0.0.1:60538 Closing
+[Thu Oct 30 09:50:31 2025] 127.0.0.1:60542 Accepted
+[Thu Oct 30 09:50:31 2025] 127.0.0.1:60542 [200]: POST /receiver.php
+[Thu Oct 30 09:50:31 2025] 127.0.0.1:60542 Closing
+[Thu Oct 30 09:50:33 2025] 127.0.0.1:60556 Accepted
+[Thu Oct 30 09:50:33 2025] 127.0.0.1:60556 [200]: POST /receiver.php
+[Thu Oct 30 09:50:33 2025] 127.0.0.1:60556 Closing
+[Thu Oct 30 09:50:35 2025] 127.0.0.1:60560 Accepted
+[Thu Oct 30 09:50:35 2025] 127.0.0.1:60560 [200]: POST /receiver.php
+[Thu Oct 30 09:50:35 2025] 127.0.0.1:60560 Closing
+[Thu Oct 30 09:50:37 2025] 127.0.0.1:32882 Accepted
+[Thu Oct 30 09:50:37 2025] 127.0.0.1:32882 [200]: POST /receiver.php
+[Thu Oct 30 09:50:37 2025] 127.0.0.1:32882 Closing
+[Thu Oct 30 09:50:39 2025] 127.0.0.1:32888 Accepted
+[Thu Oct 30 09:50:39 2025] 127.0.0.1:32888 [200]: POST /receiver.php
+[Thu Oct 30 09:50:39 2025] 127.0.0.1:32888 Closing
+[Thu Oct 30 09:50:41 2025] 127.0.0.1:32890 Accepted
+[Thu Oct 30 09:50:41 2025] 127.0.0.1:32890 [200]: POST /receiver.php
+[Thu Oct 30 09:50:41 2025] 127.0.0.1:32890 Closing
+[Thu Oct 30 09:50:43 2025] 127.0.0.1:32904 Accepted
+[Thu Oct 30 09:50:43 2025] 127.0.0.1:32904 [200]: POST /receiver.php
+[Thu Oct 30 09:50:43 2025] 127.0.0.1:32904 Closing
+[Thu Oct 30 09:50:45 2025] 127.0.0.1:32906 Accepted
+[Thu Oct 30 09:50:45 2025] 127.0.0.1:32906 [200]: POST /receiver.php
+[Thu Oct 30 09:50:45 2025] 127.0.0.1:32906 Closing
+[Thu Oct 30 09:50:47 2025] 127.0.0.1:42730 Accepted
+[Thu Oct 30 09:50:47 2025] 127.0.0.1:42730 [200]: POST /receiver.php
+[Thu Oct 30 09:50:47 2025] 127.0.0.1:42730 Closing
+[Thu Oct 30 09:50:49 2025] 127.0.0.1:42732 Accepted
+[Thu Oct 30 09:50:49 2025] 127.0.0.1:42732 [200]: POST /receiver.php
+[Thu Oct 30 09:50:49 2025] 127.0.0.1:42732 Closing
+[Thu Oct 30 09:50:51 2025] 127.0.0.1:42740 Accepted
+[Thu Oct 30 09:50:51 2025] 127.0.0.1:42740 [200]: POST /receiver.php
+[Thu Oct 30 09:50:51 2025] 127.0.0.1:42740 Closing
+[Thu Oct 30 09:50:53 2025] 127.0.0.1:42748 Accepted
+[Thu Oct 30 09:50:53 2025] 127.0.0.1:42748 [200]: POST /receiver.php
+[Thu Oct 30 09:50:53 2025] 127.0.0.1:42748 Closing
+[Thu Oct 30 09:50:55 2025] 127.0.0.1:42756 Accepted
+[Thu Oct 30 09:50:55 2025] 127.0.0.1:42756 [200]: POST /receiver.php
+[Thu Oct 30 09:50:55 2025] 127.0.0.1:42756 Closing
+[Thu Oct 30 09:50:57 2025] 127.0.0.1:59354 Accepted
+[Thu Oct 30 09:50:57 2025] 127.0.0.1:59354 [200]: POST /receiver.php
+[Thu Oct 30 09:50:57 2025] 127.0.0.1:59354 Closing
+[Thu Oct 30 09:50:59 2025] 127.0.0.1:59368 Accepted
+[Thu Oct 30 09:50:59 2025] 127.0.0.1:59368 [200]: POST /receiver.php
+[Thu Oct 30 09:50:59 2025] 127.0.0.1:59368 Closing
+[Thu Oct 30 09:51:01 2025] 127.0.0.1:59382 Accepted
+[Thu Oct 30 09:51:01 2025] 127.0.0.1:59382 [200]: POST /receiver.php
+[Thu Oct 30 09:51:01 2025] 127.0.0.1:59382 Closing
+[Thu Oct 30 09:51:03 2025] 127.0.0.1:59392 Accepted
+[Thu Oct 30 09:51:03 2025] 127.0.0.1:59392 [200]: POST /receiver.php
+[Thu Oct 30 09:51:03 2025] 127.0.0.1:59392 Closing
+[Thu Oct 30 09:51:06 2025] 127.0.0.1:59394 Accepted
+[Thu Oct 30 09:51:06 2025] 127.0.0.1:59394 [200]: POST /receiver.php
+[Thu Oct 30 09:51:06 2025] 127.0.0.1:59394 Closing
+[Thu Oct 30 09:51:08 2025] 127.0.0.1:41122 Accepted
+[Thu Oct 30 09:51:08 2025] 127.0.0.1:41122 [200]: POST /receiver.php
+[Thu Oct 30 09:51:08 2025] 127.0.0.1:41122 Closing
+[Thu Oct 30 09:51:09 2025] 127.0.0.1:41136 Accepted
+[Thu Oct 30 09:51:09 2025] 127.0.0.1:41136 [200]: POST /receiver.php
+[Thu Oct 30 09:51:09 2025] 127.0.0.1:41136 Closing
+[Thu Oct 30 09:51:11 2025] 127.0.0.1:41146 Accepted
+[Thu Oct 30 09:51:11 2025] 127.0.0.1:41146 [200]: POST /receiver.php
+[Thu Oct 30 09:51:11 2025] 127.0.0.1:41146 Closing
+[Thu Oct 30 09:51:13 2025] 127.0.0.1:41152 Accepted
+[Thu Oct 30 09:51:13 2025] 127.0.0.1:41152 [200]: POST /receiver.php
+[Thu Oct 30 09:51:13 2025] 127.0.0.1:41152 Closing
+[Thu Oct 30 09:51:15 2025] 127.0.0.1:41168 Accepted
+[Thu Oct 30 09:51:15 2025] 127.0.0.1:41168 [200]: POST /receiver.php
+[Thu Oct 30 09:51:15 2025] 127.0.0.1:41168 Closing
+[Thu Oct 30 09:51:17 2025] 127.0.0.1:57152 Accepted
+[Thu Oct 30 09:51:17 2025] 127.0.0.1:57152 [200]: POST /receiver.php
+[Thu Oct 30 09:51:17 2025] 127.0.0.1:57152 Closing
+[Thu Oct 30 09:51:19 2025] 127.0.0.1:57162 Accepted
+[Thu Oct 30 09:51:19 2025] 127.0.0.1:57162 [200]: POST /receiver.php
+[Thu Oct 30 09:51:19 2025] 127.0.0.1:57162 Closing
+[Thu Oct 30 09:51:21 2025] 127.0.0.1:57178 Accepted
+[Thu Oct 30 09:51:21 2025] 127.0.0.1:57178 [200]: POST /receiver.php
+[Thu Oct 30 09:51:21 2025] 127.0.0.1:57178 Closing
+[Thu Oct 30 09:51:23 2025] 127.0.0.1:57186 Accepted
+[Thu Oct 30 09:51:23 2025] 127.0.0.1:57186 [200]: GET /templates/normal_data/index.html
+[Thu Oct 30 09:51:23 2025] 127.0.0.1:57186 Closing
+[Thu Oct 30 09:51:23 2025] 127.0.0.1:57194 Accepted
+[Thu Oct 30 09:51:23 2025] 127.0.0.1:57194 [200]: GET /assets/js/client.min.js
+[Thu Oct 30 09:51:23 2025] 127.0.0.1:57194 Closing
+[Thu Oct 30 09:51:23 2025] 127.0.0.1:57200 Accepted
+[Thu Oct 30 09:51:23 2025] 127.0.0.1:57200 [200]: GET /assets/js/jquery.min.js
+[Thu Oct 30 09:51:23 2025] 127.0.0.1:57210 Accepted
+[Thu Oct 30 09:51:23 2025] 127.0.0.1:57200 Closing
+[Thu Oct 30 09:51:23 2025] 127.0.0.1:57210 [200]: GET /assets/js/loc.js
+[Thu Oct 30 09:51:23 2025] 127.0.0.1:57210 Closing
+[Thu Oct 30 09:51:23 2025] 127.0.0.1:57224 Accepted
+[Thu Oct 30 09:51:23 2025] 127.0.0.1:57224 [200]: POST /receiver.php
+[Thu Oct 30 09:51:23 2025] 127.0.0.1:57224 Closing
+[Thu Oct 30 09:51:24 2025] 127.0.0.1:57230 Accepted
+[Thu Oct 30 09:51:24 2025] 127.0.0.1:57234 Accepted
+[Thu Oct 30 09:51:24 2025] 127.0.0.1:57230 [200]: GET /templates/normal_data/favicon0.ico
+[Thu Oct 30 09:51:24 2025] 127.0.0.1:57230 Closing
+[Thu Oct 30 09:51:24 2025] 127.0.0.1:57234 [200]: GET /templates/normal_data/favicon1.ico
+[Thu Oct 30 09:51:24 2025] 127.0.0.1:57234 Closing
+[Thu Oct 30 09:51:24 2025] 127.0.0.1:57250 Accepted
+[Thu Oct 30 09:51:24 2025] 127.0.0.1:57250 [200]: POST /templates/normal_data/handler.php
+[Thu Oct 30 09:51:24 2025] 127.0.0.1:57250 Closing
+[Thu Oct 30 09:51:25 2025] 127.0.0.1:57266 Accepted
+[Thu Oct 30 09:51:25 2025] 127.0.0.1:57266 [200]: POST /receiver.php
+[Thu Oct 30 09:51:25 2025] 127.0.0.1:57266 Closing
+[Thu Oct 30 09:51:27 2025] 127.0.0.1:41090 Accepted
+[Thu Oct 30 09:51:27 2025] 127.0.0.1:41090 [200]: POST /receiver.php
+[Thu Oct 30 09:51:27 2025] 127.0.0.1:41090 Closing
+[Thu Oct 30 09:51:29 2025] 127.0.0.1:41094 Accepted
+[Thu Oct 30 09:51:29 2025] 127.0.0.1:41094 [200]: POST /receiver.php
+[Thu Oct 30 09:51:29 2025] 127.0.0.1:41094 Closing
+[Thu Oct 30 09:51:31 2025] 127.0.0.1:41096 Accepted
+[Thu Oct 30 09:51:31 2025] 127.0.0.1:41096 [200]: POST /receiver.php
+[Thu Oct 30 09:51:31 2025] 127.0.0.1:41096 Closing
+[Thu Oct 30 09:51:33 2025] 127.0.0.1:41098 Accepted
+[Thu Oct 30 09:51:33 2025] 127.0.0.1:41098 [200]: POST /receiver.php
+[Thu Oct 30 09:51:33 2025] 127.0.0.1:41098 Closing
+[Thu Oct 30 09:51:35 2025] 127.0.0.1:41100 Accepted
+[Thu Oct 30 09:51:35 2025] 127.0.0.1:41100 [200]: POST /receiver.php
+[Thu Oct 30 09:51:35 2025] 127.0.0.1:41100 Closing
+[Thu Oct 30 09:51:37 2025] 127.0.0.1:32906 Accepted
+[Thu Oct 30 09:51:37 2025] 127.0.0.1:32906 [200]: POST /receiver.php
+[Thu Oct 30 09:51:37 2025] 127.0.0.1:32906 Closing
+[Thu Oct 30 09:51:39 2025] 127.0.0.1:32916 Accepted
+[Thu Oct 30 09:51:39 2025] 127.0.0.1:32916 [200]: POST /receiver.php
+[Thu Oct 30 09:51:39 2025] 127.0.0.1:32916 Closing
+[Thu Oct 30 09:51:41 2025] 127.0.0.1:32922 Accepted
+[Thu Oct 30 09:51:41 2025] 127.0.0.1:32922 [200]: POST /receiver.php
+[Thu Oct 30 09:51:41 2025] 127.0.0.1:32922 Closing
+[Thu Oct 30 09:51:43 2025] 127.0.0.1:32938 Accepted
+[Thu Oct 30 09:51:43 2025] 127.0.0.1:32938 [200]: POST /receiver.php
+[Thu Oct 30 09:51:43 2025] 127.0.0.1:32938 Closing
+[Thu Oct 30 09:51:45 2025] 127.0.0.1:32942 Accepted
+[Thu Oct 30 09:51:45 2025] 127.0.0.1:32942 [200]: POST /receiver.php
+[Thu Oct 30 09:51:45 2025] 127.0.0.1:32942 Closing
+[Thu Oct 30 09:51:47 2025] 127.0.0.1:38978 Accepted
+[Thu Oct 30 09:51:47 2025] 127.0.0.1:38978 [200]: POST /receiver.php
+[Thu Oct 30 09:51:47 2025] 127.0.0.1:38978 Closing
+[Thu Oct 30 09:51:49 2025] 127.0.0.1:38984 Accepted
+[Thu Oct 30 09:51:49 2025] 127.0.0.1:38984 [200]: POST /receiver.php
+[Thu Oct 30 09:51:49 2025] 127.0.0.1:38984 Closing
+[Thu Oct 30 09:51:51 2025] 127.0.0.1:38988 Accepted
+[Thu Oct 30 09:51:51 2025] 127.0.0.1:38988 [200]: POST /receiver.php
+[Thu Oct 30 09:51:51 2025] 127.0.0.1:38988 Closing
+[Thu Oct 30 09:51:53 2025] 127.0.0.1:39002 Accepted
+[Thu Oct 30 09:51:53 2025] 127.0.0.1:39002 [200]: POST /receiver.php
+[Thu Oct 30 09:51:53 2025] 127.0.0.1:39002 Closing
+[Thu Oct 30 09:51:55 2025] 127.0.0.1:39006 Accepted
+[Thu Oct 30 09:51:55 2025] 127.0.0.1:39006 [200]: POST /receiver.php
+[Thu Oct 30 09:51:55 2025] 127.0.0.1:39006 Closing
+[Thu Oct 30 09:51:57 2025] 127.0.0.1:41314 Accepted
+[Thu Oct 30 09:51:57 2025] 127.0.0.1:41314 [200]: POST /receiver.php
+[Thu Oct 30 09:51:57 2025] 127.0.0.1:41314 Closing
+[Thu Oct 30 09:51:59 2025] 127.0.0.1:41324 Accepted
+[Thu Oct 30 09:51:59 2025] 127.0.0.1:41324 [200]: POST /receiver.php
+[Thu Oct 30 09:51:59 2025] 127.0.0.1:41324 Closing
